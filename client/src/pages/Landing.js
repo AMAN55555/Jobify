@@ -15,7 +15,7 @@ const Landing = () => {
             job <span>tracking</span> app
           </h1>
           <p>
-            Jobify is a web portal designed to make it easier for job seekers to browse for jobs matching their skills.
+            Jobify is a web portal designed to make it easier for job seekers to keep record of their job application.  
           </p>
           <Link to='/register' className='btn btn-hero'>
             Login/Register
